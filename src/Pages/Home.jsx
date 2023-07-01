@@ -8,6 +8,7 @@ const Home = () => {
     <div>Home</div>
     <div className='image'>
         <img src={im} alt="" />
+        <div className='abc'>Helloo</div>
     </div>
     </>
   )
