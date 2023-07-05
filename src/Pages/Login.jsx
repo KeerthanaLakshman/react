@@ -14,7 +14,7 @@ const Login = () => {
         <label htmlFor="show">Show password</label><br />
         <button className='button' id='button'>SIGN IN</button><br /><br /><br />
         <div className='zx'>Forgot  <a href="none"> Username / Password ?</a></div><br />
-        <div className='xy'>Don't have an account? <a href="">Sign Up</a></div>
+        <div className='xy'>Don't have an account ? <a href="">Sign Up</a></div>
       </form>
       
     </div>
