@@ -7,6 +7,7 @@ body{
   .spotify{
     color: white;
     display: flex;
+    width: 1422px;
     background-color: rgb(25, 21, 21);
     height: 70px;
     align-items: center;
@@ -21,7 +22,7 @@ body{
    
 }
 .A{
-    margin-right: 550px;
+    margin-right: 650px;
 
 }
 
