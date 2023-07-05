@@ -20,7 +20,7 @@ const Home = () => {
   </div>
     <div className='main'>
       <div className='H'><b>Music for everyone.</b></div>
-      <div className='I'>Millions of songs.No credit card needed.</div>
+      <div className='I'>Millions of songs.No credit card needed...</div>
       <button>GET SPOTIFY FREE</button>
     </div>
     </>
