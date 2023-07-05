@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color:rgb(251, 177, 39)
+  }
+  .spotify{
+    color: white;
+    width: 1500px;
+    display: flex;
+    background-color: rgb(25, 21, 21);
+    height: 70px;
+    align-items: center;
+  }
+
+.spotify img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 5px;
+    margin-left: 150px;
+   
+}
+.A{
+    margin-right: 700px;
+
+}
+
+.B,.C,.D,.F,.G{
+    margin-right: 30px;
+}
+.main{
+    padding: 12%;
+}
+.H{
+    color: white;
+    font-size: 500%;
+    text-align: center;
+}
+.I{
+    color: white;
+    font-size: 150%;
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    height: 50px;
+    width: 200px;
+    background-color:rgb(6, 146, 6);
+    color: white;
+    margin-left: 450px;
+    margin-top: 20px;
+    border: none;
+}
+.F{
+    color: white;
+}
