@@ -1,13 +1,6 @@
-body{
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
-    background-color:rgb(251, 177, 39)
-  }
-  .spotify{
+.spotify{
     color: white;
     display: flex;
-    width: 1422px;
     background-color: rgb(25, 21, 21);
     height: 70px;
     align-items: center;

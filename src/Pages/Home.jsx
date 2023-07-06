@@ -17,7 +17,7 @@ const Home = () => {
       <Link to={"/Login"} id='log'>
         <div className="F">Log in</div>
       </Link>
-  </div>
+   </div>
     <div className='main'>
       <div className='H'><b>Music for everyone.</b></div>
       <div className='I'>Millions of songs.No credit card needed...</div>
