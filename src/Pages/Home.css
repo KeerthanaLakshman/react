@@ -1,50 +1,46 @@
-.spotify{
-    color: white;
-    display: flex;
-    background-color: rgb(25, 21, 21);
-    height: 70px;
-    align-items: center;
-  }
-
 .spotify img{
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    margin-right: 5px;
     margin-left: 150px;
-   
+    margin-right: 5px;
+}
+.spotify{
+    background-color: black;
+    display: flex;
+    color: white;
+    align-items: center;
+    height: 80px;
 }
 .A{
     margin-right: 650px;
 
 }
-
 .B,.C,.D,.F,.G{
     margin-right: 30px;
 }
+.F{
+    color: white;
+}
 .main{
+    text-align: center;
     padding: 12%;
 }
 .H{
     color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 500%;
-    text-align: center;
 }
 .I{
     color: white;
     font-size: 150%;
-    text-align: center;
 }
 button{
     border-radius: 10px;
+    flex-grow: 5;
+    background-color: green;
+    border: none;
     height: 50px;
     width: 200px;
-    background-color:rgb(6, 146, 6);
-    color: white;
-    margin-left: 450px;
-    margin-top: 20px;
-    border: none;
-}
-.F{
-    color: white;
+
 }
